@@ -30,7 +30,7 @@ const Welcome = () => {
     <img className="img-fluid slider-image my-2" src={slide} alt=""/>
       <div className="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <p>Some represebangladesh slide.</p>
       </div>
     </div>
     <div className="carousel-item" data-bs-interval="2000">
