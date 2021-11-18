@@ -1,0 +1,81 @@
+.message-box{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    padding: 7px;
+    margin-bottom: 15px;
+}
+.message-box img{
+    border: 3px solid #304774;
+    border-radius: 20px;
+    height: 114px;
+    width: 113px;
+    margin-right: 20px;
+}
+.message-box p{
+    font-size: 23px;
+    color: black;
+}
+.message-box a{
+    text-decoration: none;
+}
+
+.noticeBoard{
+    /* overflow-y: scroll; */
+    height: 350px;
+}
+.notice-box{
+    display: flex;
+    text-align: center;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    border-bottom: 0.5px solid #E4E4E4;
+    /* transform: rotate(-0.17deg); */
+}
+
+.notice-anchor{
+    text-decoration: none;
+    color: black;
+}
+/* .notice-anchor:hover{
+    -moz-animation-play-state: paused;
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+} */
+
+.noticeAll a{
+    text-align: end;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.video{
+    height: 250px;
+    width: 50%;
+}
+
+.fb-box{
+    height: 180px;
+    background: #fff;
+    margin-bottom: 15px;
+}
+
+.fb-box img{
+    width: 100%;
+    height: 70%;
+}
+.technology{
+    background: #fff;
+    text-align: end;
+    margin-bottom: 15px;
+}
+.technology a img{
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px ;
+    width: 100%;
+}
+.award img{
+    height: 400px;
+}

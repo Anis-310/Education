@@ -1,0 +1,55 @@
+.event-background{
+    /* margin-top: 15px; */
+    background-image: url('../../images/11.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+    width: 100%;
+}
+.card-1{
+    /* background: #086194; */
+    padding: 50px;
+    /* margin-top: 100px; */
+
+}
+.card-2{
+    /* background: #c9c8c8; */
+    padding: 50px;
+    /* margin-top: 100px; */
+
+}
+.card-3{
+    /* background: #c9c8c8; */
+    padding: 50px;
+    /* margin-top: 100px; */
+
+}
+.card-box{
+    background: white;
+    height:515px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+.card-box h4{
+    font-size: 24px;
+    color: rgb(14, 69, 121);
+    font-weight: 700;
+    margin: 50px 0;
+    text-decoration: none;
+}
+.card-box p{
+    font-size: 18px;
+    line-height: 36.5px;
+    margin: 50px 0;
+    /* justify-content: center; */
+    text-align: justify;
+}
+
+.tab-box{
+    margin-top: -100px;
+}
+
+.tab-button{
+    color: white;
+}
