@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="col-md-4 col-sm-12 mt-4 p-2 mb-4 ">
                 <p>Contact Us</p>
                 <img className="img-fluid w-75 logoImg" src={logo} alt="" />
-                <li> <FontAwesomeIcon  icon={faPhoneSquare}/> +8801767047310</li>
+                <li> <FontAwesomeIcon  icon={faPhoneSquare}/> +8801234567000</li>
                 <li> <FontAwesomeIcon  icon={faEnvelope }/> info@educationschool.edu.bd</li>
                 <li> <FontAwesomeIcon  icon={faMapMarkerAlt}/> Dhaka, Bangladesh</li>
             </div>
@@ -52,7 +52,7 @@ const Footer = () => {
             <div className="d-flex justify-content-between footer-copyright ">
 
                 <div>
-                    <p>Copyright @ 2021, All Right Reserved by - <a className="footer-bottom" href="#">Idea Solution Ltd.</a></p>
+                    <p>Copyright @ 2021, All Right Reserved by - <a className="footer-bottom" href="#">IO Soft Ltd.</a></p>
                 </div>
                 <div className="icon">
                     <a href=""><FontAwesomeIcon  icon={faFacebook} /></a>
